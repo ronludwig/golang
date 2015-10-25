@@ -1,2 +1,2 @@
 # golang
-GoLang Repository
+GoLang Projects
